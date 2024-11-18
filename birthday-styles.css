@@ -65,19 +65,19 @@ h1, h3, h2, h4, p {
     border-radius: 20px;
 }
 
-#gift-img-confetti:hover{
+#gift-img-confetti:active{
     background-image: url("./images/confetti.webp")
 }
 
-#gift-img-cake:hover{
+#gift-img-cake:active{
     background-image: url("./images/cake.webp")
 }
 
-#gift-img-genius:hover{
+#gift-img-genius:active{
     background-image: url("./images/genius.webp")
 }
 
-#gift-img-badass:hover{
+#gift-img-badass:active{
     background-image: url("./images/badass.webp")
 }
 
@@ -85,7 +85,7 @@ h1, h3, h2, h4, p {
     height: 200px;
 }
 
-#gift-img-cheers:hover{
+#gift-img-cheers:active{
     background-image: url("./images/cheers.webp")
 }
 
